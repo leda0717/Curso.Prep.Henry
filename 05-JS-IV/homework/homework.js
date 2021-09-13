@@ -100,7 +100,7 @@ function verificarPassword(usuario, password) {
   } else {
     return false
   }
-  //return usuario['password'] === password
+  
   
 }
 
